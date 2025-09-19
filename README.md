@@ -5,6 +5,18 @@ Este repositório reúne os cursos que concluí ao longo da minha trajetória de
 ⚠️ **Nota:** Nem todos os cursos estão listados ainda. Como essa organização é recente, estou aos poucos adicionando conteúdos antigos e códigos que estavam espalhados em outros repositórios ou armazenamentos locais.
 
 ---
+## 🧠 Objetivo
+
+Organizar e compartilhar os conhecimentos adquiridos em diferentes plataformas e tecnologias, como:
+
+- **Apache Beam**
+- **Databricks**
+- **Spark**
+- **Python**
+
+Além disso, o intuito é **manter os códigos aqui como referência para futuras consultas**, revisões e reaproveitamento em projetos reais.
+
+---
 
 ## 🚀 Próximos passos
 
