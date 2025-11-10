@@ -1,0 +1,7 @@
+data_venda,produto,quantidade,valor_unitario,cliente
+2024-01-15,Notebook Dell,2,3500.00,João Silva
+2024-01-15,Monitor LG,3,800.00,João Silva
+2024-01-16,Teclado Mecânico,5,200.00,Maria Santos
+2024-01-16,Mouse Gamer,2,150.00,Maria Santos
+2024-01-17,Headphone Bluetooth,1,300.00,Pedro Oliveira
+2024-01-17,Webcam HD,2,250.00,Pedro Oliveira 

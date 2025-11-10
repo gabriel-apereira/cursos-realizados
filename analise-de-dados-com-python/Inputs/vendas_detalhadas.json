@@ -1,0 +1,94 @@
+{
+    "vendas_detalhadas": [
+        {
+            "data_venda": "2024-01-15",
+            "produto": "Notebook Dell",
+            "quantidade": 2,
+            "valor_unitario": 3500.0,
+            "cliente": "João Silva",
+            "id": 1,
+            "nome": "João Silva",
+            "email": "joao.silva@email.com",
+            "telefone": "(11) 98765-4321",
+            "endereco": {
+                "rua": "Rua das Flores",
+                "numero": "123",
+                "cidade": "São Paulo",
+                "estado": "SP",
+                "cep": "01234-567"
+            }
+        },
+        {
+            "data_venda": "2024-01-15",
+            "produto": "Monitor LG",
+            "quantidade": 3,
+            "valor_unitario": 800.0,
+            "cliente": "João Silva",
+            "id": 1,
+            "nome": "João Silva",
+            "email": "joao.silva@email.com",
+            "telefone": "(11) 98765-4321",
+            "endereco": {
+                "rua": "Rua das Flores",
+                "numero": "123",
+                "cidade": "São Paulo",
+                "estado": "SP",
+                "cep": "01234-567"
+            }
+        },
+        {
+            "data_venda": "2024-01-16",
+            "produto": "Teclado Mecânico",
+            "quantidade": 5,
+            "valor_unitario": 200.0,
+            "cliente": "Maria Santos",
+            "id": 2,
+            "nome": "Maria Santos",
+            "email": "maria.santos@email.com",
+            "telefone": "(11) 91234-5678",
+            "endereco": {
+                "rua": "Avenida Paulista",
+                "numero": "456",
+                "cidade": "São Paulo",
+                "estado": "SP",
+                "cep": "04567-890"
+            }
+        },
+        {
+            "data_venda": "2024-01-16",
+            "produto": "Mouse Gamer",
+            "quantidade": 2,
+            "valor_unitario": 150.0,
+            "cliente": "Maria Santos",
+            "id": 2,
+            "nome": "Maria Santos",
+            "email": "maria.santos@email.com",
+            "telefone": "(11) 91234-5678",
+            "endereco": {
+                "rua": "Avenida Paulista",
+                "numero": "456",
+                "cidade": "São Paulo",
+                "estado": "SP",
+                "cep": "04567-890"
+            }
+        },
+        {
+            "data_venda": "2024-01-17",
+            "produto": "Headphone Bluetooth",
+            "quantidade": 1,
+            "valor_unitario": 300.0,
+            "cliente": "Pedro Oliveira",
+            "id": 3,
+            "nome": "Pedro Oliveira",
+            "email": "pedro.oliveira@email.com",
+            "telefone": "(11) 94567-8901",
+            "endereco": {
+                "rua": "Rua Augusta",
+                "numero": "789",
+                "cidade": "São Paulo",
+                "estado": "SP",
+                "cep": "01234-567"
+            }
+        }
+    ]
+}
