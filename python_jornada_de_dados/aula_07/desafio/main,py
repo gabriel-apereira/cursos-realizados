@@ -1,0 +1,9 @@
+from etl import ler_csv, filtrar_produtos_nao_entregues, somar_valores_dos_produtos
+
+csv = ler_csv('python_jornada_de_dados/aula_07/desafio/vendas.csv')
+
+produtos_n_entregues = filtrar_produtos_nao_entregues(csv)
+
+total_valores = somar_valores_dos_produtos(produtos_n_entregues)
+
+print(total_valores)
