@@ -1,0 +1,6 @@
+2025-12-11 10:11:45.325 | INFO     | __main__:soma:8 - 2
+2025-12-11 10:11:45.326 | INFO     | __main__:soma:9 - 3
+2025-12-11 10:11:45.327 | INFO     | __main__:soma:10 - 5
+2025-12-11 10:17:40.571 | CRITICAL | __main__:soma:13 - Variaveis nao sao numeros
+2025-12-11 10:17:50.280 | INFO     | __main__:soma:10 - Soma realizada com sucesso: 5
+2025-12-11 10:18:49.571 | CRITICAL | __main__:soma:13 - Variaveis nao sao numeros
