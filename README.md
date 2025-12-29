@@ -13,6 +13,7 @@ Organizar e compartilhar os conhecimentos adquiridos em diferentes plataformas e
 - **Databricks**
 - **Spark**
 - **Python**
+- **SQL**
 
 Além disso, o intuito é **manter os códigos aqui como referência para futuras consultas**, revisões e reaproveitamento em projetos reais.
 
