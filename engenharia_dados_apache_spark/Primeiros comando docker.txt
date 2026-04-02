@@ -1,0 +1,34 @@
+Primeiros comando docker
+
+
+
+ver docker funcionando 
+docker --version
+docker version
+
+Lista os containers em execução.
+docker ps
+
+Lista todos containers mesmo parados.
+docker ps -a
+
+Lista todas as imagens disponíveis localmente.
+docker images
+
+Listar todos os volumes
+docker volume ls
+
+Inspecionar um volume específico + detalhes 
+docker volume inspect nome_volume
+
+Ver volumes usados por um container
+docker inspect -f '{{ .Mounts }}' a1cd21c7d4b2
+
+Iniciar novamente um container parado
+docker start nome_ou_id
+
+Parar Container
+docker stop 8f3a2b7c9e1d
+docker stop meu container
+
+

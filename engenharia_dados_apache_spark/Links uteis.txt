@@ -1,0 +1,50 @@
+
+docker
+https://www.docker.com/
+
+docker-desktop
+https://www.docker.com/products/docker-desktop/
+
+docker-hub
+https://www.docker.com/products/docker-hub/
+
+
+INSTALAÇÃO DOCKER 
+Windows
+https://docs.docker.com/desktop/setup/install/windows-install/
+
+
+Linux
+https://docs.docker.com/desktop/setup/install/linux/
+
+Docker Hub
+https://www.docker.com/products/docker-hub/
+
+
+VsCode Download
+https://code.visualstudio.com/download
+
+
+
+
+
+
+O Método Pomodoro é uma técnica de gerenciamento de tempo que foca em aumentar a produtividade dividindo o trabalho em blocos de 25 minutos (pomodoros) de foco total, seguidos por pausas curtas de 5 minutos; após quatro pomodoros, faz-se uma pausa mais longa (15-30 min) para descanso, reduzindo a fadiga mental e melhorando a concentração, sendo ótimo para estudos e tarefas. 
+Como funciona (Passo a Passo)
+Escolha a tarefa: Decida uma tarefa específica para realizar.
+Configure o cronômetro: Ajuste um timer para 25 minutos (um "pomodoro").
+Foque: Trabalhe intensamente na tarefa, sem distrações, até o alarme tocar.
+Pausa curta: Quando o alarme tocar, faça uma pausa de 5 minutos (use o celular, levante-se, etc.).
+Repita: Após 4 pomodoros, faça uma pausa longa de 15 a 30 minutos para descansar de verdade. 
+
+
+Benefícios
+Melhora o foco: Treina seu cérebro para se concentrar em intervalos curtos.
+Reduz o estresse: Tarefas grandes parecem menos assustadoras.
+Combate a procrastinação: Facilita o início de tarefas difíceis.
+Aumenta a produtividade: Mantém a energia e a motivação. 
+
+
+Ferramentas
+Você pode usar um timer de cozinha, o alarme do celular, ou aplicativos específicos como o Pomofocus, que é um temporizador personalizável. 
+
